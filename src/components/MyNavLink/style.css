@@ -1,0 +1,14 @@
+.nav-link{
+    font-size: 14px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: none;
+}
+
+.active-nav-link {
+    font-weight: 700;
+}
